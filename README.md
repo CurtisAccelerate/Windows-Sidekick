@@ -2,7 +2,9 @@
 
 *By Curtis White*
 
+
 Windows Sidekick is a lightweight tray-resident Windows application designed to quickly capture screen contexts and interact with a local large-language model (LLM). This application is entirely local-first, ensuring no cloud connections are required unless explicitly configured.
+Windows Sidekick provides immediate contextual assistance directly from your desktop, ensuring rapid, seamless integration with your workflow.
 
 ## 🚀 Quick Start
 
@@ -125,8 +127,6 @@ You must be running local LLM at the endpoint. You can do this easily by downloa
 
 
 ---
-
-Windows Sidekick provides immediate contextual assistance directly from your desktop, ensuring rapid, seamless integration with your workflow.
 
 ##  Caution
 - Caution. No warranty. This was a rapid AI build personal project.
