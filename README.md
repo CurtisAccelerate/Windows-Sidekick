@@ -120,7 +120,7 @@ You must be running local LLM at the endpoint. You can do this easily by downloa
 - **LLM Endpoint**: Easily configurable to any local or remote model endpoint* (with configuration).
 
 
-## 📌 Knwown issues
+## 📌 Known issues
 - It attempts to grab the active application and fall back to the screen grab if that fails: however, there are cases where results where desired screen area is not captured. If complains about blank background, likely the grab failed. There is a diangostic button to view captured image for verification.
 
 
