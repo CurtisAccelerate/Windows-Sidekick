@@ -119,6 +119,11 @@ You must be running local LLM at the endpoint. You can do this easily by downloa
 - **Hotkeys**: Customize via `settings.json`.
 - **LLM Endpoint**: Easily configurable to any local or remote model endpoint* (with configuration).
 
+
+## 📌 Knwown issues
+- It attempts to grab the active application and fall back to the screen grab if that fails: however, there are cases where results where desired screen area is not captured. If complains about blank background, likely the grab failed. There is a diangostic button to view captured image for verification.
+
+
 ---
 
 Windows Sidekick provides immediate contextual assistance directly from your desktop, ensuring rapid, seamless integration with your workflow.
