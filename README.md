@@ -7,7 +7,7 @@ Windows Sidekick is a lightweight tray-resident Windows application designed to 
 ## 🚀 Quick Start
 
 ```bash
-git clone https://github.com/CurtisAccelerate/Sidekick.git
+git clone https://github.com/CurtisAccelerate/Windoows-Sidekick/Windows-Sidekick.git
 cd Sidekick
 dotnet restore
 msbuild WindowsSidekick.csproj
